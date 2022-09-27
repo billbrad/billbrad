@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @billbrad
-- 👀 I’m interested in DevOps, bioinformatics, and data science 
+- I’m interested in biostatics
+- I like programming in python3 and R
 
 
 <!---
