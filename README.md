@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @billbrad
-- I’m interested in biostatics
+- I’m interested in biostatistcs
 - I like programming in python3 and R
 
 
